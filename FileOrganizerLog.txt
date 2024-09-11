@@ -1,0 +1,710 @@
+[2024-09-10 01:10:18] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:10:18] Checking for existing files matching the pattern...
+[2024-09-10 01:10:18] Found 9 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:10:18] Found existing file: C:\Users\Admin\Downloads\DL_2.1.100924_Probabilistic Machine Learning.pdf
+[2024-09-10 01:10:18] Starting to organize file: C:\Users\Admin\Downloads\DL_2.1.100924_Probabilistic Machine Learning.pdf
+[2024-09-10 01:10:18] File name: DL_2.1.100924_Probabilistic Machine Learning.pdf
+[2024-09-10 01:10:18] Determining category for file: DL_2.1.100924_Probabilistic Machine Learning.pdf
+[2024-09-10 01:10:18] Matched category: DL
+[2024-09-10 01:10:18] Category: DL, Subcategory: Deep Learning
+[2024-09-10 01:10:18] Determining file type for: DL_2.1.100924_Probabilistic Machine Learning.pdf
+[2024-09-10 01:10:18] File type index: 2
+[2024-09-10 01:10:18] Matched file type: Books
+[2024-09-10 01:10:18] File Type: Books
+[2024-09-10 01:10:18] Destination Path: C:\Users\Admin\Documents\DL\Books
+[2024-09-10 01:10:18] Created directory: C:\Users\Admin\Documents\DL\Books
+[2024-09-10 01:10:18] Attempting to move file from C:\Users\Admin\Downloads\DL_2.1.100924_Probabilistic Machine Learning.pdf to C:\Users\Admin\Documents\DL\Books\DL_2.1.100924_Probabilistic Machine Learning.pdf
+[2024-09-10 01:10:18] Moved DL_2.1.100924_Probabilistic Machine Learning.pdf to C:\Users\Admin\Documents\DL\Books\DL_2.1.100924_Probabilistic Machine Learning.pdf
+[2024-09-10 01:10:19] Found existing file: C:\Users\Admin\Downloads\DL_2.4.100924_Speech and Language Processing.pdf
+[2024-09-10 01:10:19] Starting to organize file: C:\Users\Admin\Downloads\DL_2.4.100924_Speech and Language Processing.pdf
+[2024-09-10 01:10:19] File name: DL_2.4.100924_Speech and Language Processing.pdf
+[2024-09-10 01:10:19] Determining category for file: DL_2.4.100924_Speech and Language Processing.pdf
+[2024-09-10 01:10:19] Matched category: DL
+[2024-09-10 01:10:19] Category: DL, Subcategory: Deep Learning
+[2024-09-10 01:10:19] Determining file type for: DL_2.4.100924_Speech and Language Processing.pdf
+[2024-09-10 01:10:19] File type index: 2
+[2024-09-10 01:10:19] Matched file type: Books
+[2024-09-10 01:10:19] File Type: Books
+[2024-09-10 01:10:19] Destination Path: C:\Users\Admin\Documents\DL\Books
+[2024-09-10 01:10:19] Attempting to move file from C:\Users\Admin\Downloads\DL_2.4.100924_Speech and Language Processing.pdf to C:\Users\Admin\Documents\DL\Books\DL_2.4.100924_Speech and Language Processing.pdf
+[2024-09-10 01:10:19] Moved DL_2.4.100924_Speech and Language Processing.pdf to C:\Users\Admin\Documents\DL\Books\DL_2.4.100924_Speech and Language Processing.pdf
+[2024-09-10 01:10:19] Found existing file: C:\Users\Admin\Downloads\MATH_1.5.100924_Tensor Decompositions and Applications.pdf
+[2024-09-10 01:10:19] Starting to organize file: C:\Users\Admin\Downloads\MATH_1.5.100924_Tensor Decompositions and Applications.pdf
+[2024-09-10 01:10:19] File name: MATH_1.5.100924_Tensor Decompositions and Applications.pdf
+[2024-09-10 01:10:19] Determining category for file: MATH_1.5.100924_Tensor Decompositions and Applications.pdf
+[2024-09-10 01:10:19] Matched category: MATH
+[2024-09-10 01:10:19] Category: MATH, Subcategory: Mathematics
+[2024-09-10 01:10:19] Determining file type for: MATH_1.5.100924_Tensor Decompositions and Applications.pdf
+[2024-09-10 01:10:19] File type index: 1
+[2024-09-10 01:10:19] Matched file type: Paper
+[2024-09-10 01:10:19] File Type: Paper
+[2024-09-10 01:10:19] Destination Path: C:\Users\Admin\Documents\MATH\Paper
+[2024-09-10 01:10:19] Created directory: C:\Users\Admin\Documents\MATH\Paper
+[2024-09-10 01:10:19] Attempting to move file from C:\Users\Admin\Downloads\MATH_1.5.100924_Tensor Decompositions and Applications.pdf to C:\Users\Admin\Documents\MATH\Paper\MATH_1.5.100924_Tensor Decompositions and Applications.pdf
+[2024-09-10 01:10:19] Moved MATH_1.5.100924_Tensor Decompositions and Applications.pdf to C:\Users\Admin\Documents\MATH\Paper\MATH_1.5.100924_Tensor Decompositions and Applications.pdf
+[2024-09-10 01:10:19] Found existing file: C:\Users\Admin\Downloads\MATH_5.1.100924_Pseudo Inverse.pdf
+[2024-09-10 01:10:19] Starting to organize file: C:\Users\Admin\Downloads\MATH_5.1.100924_Pseudo Inverse.pdf
+[2024-09-10 01:10:19] File name: MATH_5.1.100924_Pseudo Inverse.pdf
+[2024-09-10 01:10:19] Determining category for file: MATH_5.1.100924_Pseudo Inverse.pdf
+[2024-09-10 01:10:19] Matched category: MATH
+[2024-09-10 01:10:19] Category: MATH, Subcategory: Mathematics
+[2024-09-10 01:10:19] Determining file type for: MATH_5.1.100924_Pseudo Inverse.pdf
+[2024-09-10 01:10:19] File type index: 5
+[2024-09-10 01:10:19] Matched file type: Short pdf
+[2024-09-10 01:10:19] File Type: Short pdf
+[2024-09-10 01:10:19] Destination Path: C:\Users\Admin\Documents\MATH\Short pdf
+[2024-09-10 01:10:19] Created directory: C:\Users\Admin\Documents\MATH\Short pdf
+[2024-09-10 01:10:19] Attempting to move file from C:\Users\Admin\Downloads\MATH_5.1.100924_Pseudo Inverse.pdf to C:\Users\Admin\Documents\MATH\Short pdf\MATH_5.1.100924_Pseudo Inverse.pdf
+[2024-09-10 01:10:19] Moved MATH_5.1.100924_Pseudo Inverse.pdf to C:\Users\Admin\Documents\MATH\Short pdf\MATH_5.1.100924_Pseudo Inverse.pdf
+[2024-09-10 01:10:19] Found existing file: C:\Users\Admin\Downloads\MIS_0.0.100924_DENSO Hackathon (nam ngoái).xlsx
+[2024-09-10 01:10:19] Starting to organize file: C:\Users\Admin\Downloads\MIS_0.0.100924_DENSO Hackathon (nam ngoái).xlsx
+[2024-09-10 01:10:19] File name: MIS_0.0.100924_DENSO Hackathon (nam ngoái).xlsx
+[2024-09-10 01:10:19] Determining category for file: MIS_0.0.100924_DENSO Hackathon (nam ngoái).xlsx
+[2024-09-10 01:10:19] Matched category: MIS
+[2024-09-10 01:10:19] Category: MIS, Subcategory: Miscellaneous
+[2024-09-10 01:10:19] Determining file type for: MIS_0.0.100924_DENSO Hackathon (nam ngoái).xlsx
+[2024-09-10 01:10:19] File type index: 0
+[2024-09-10 01:10:19] Matched file type: Mis
+[2024-09-10 01:10:19] File Type: Mis
+[2024-09-10 01:10:19] Destination Path: C:\Users\Admin\Documents\MIS\Mis
+[2024-09-10 01:10:19] Created directory: C:\Users\Admin\Documents\MIS\Mis
+[2024-09-10 01:10:19] Attempting to move file from C:\Users\Admin\Downloads\MIS_0.0.100924_DENSO Hackathon (nam ngoái).xlsx to C:\Users\Admin\Documents\MIS\Mis\MIS_0.0.100924_DENSO Hackathon (nam ngoái).xlsx
+[2024-09-10 01:10:19] Moved MIS_0.0.100924_DENSO Hackathon (nam ngoái).xlsx to C:\Users\Admin\Documents\MIS\Mis\MIS_0.0.100924_DENSO Hackathon (nam ngoái).xlsx
+[2024-09-10 01:10:19] Found existing file: C:\Users\Admin\Downloads\MIS_0.0.100924_DENSO Q&A.xlsx
+[2024-09-10 01:10:19] Starting to organize file: C:\Users\Admin\Downloads\MIS_0.0.100924_DENSO Q&A.xlsx
+[2024-09-10 01:10:19] File name: MIS_0.0.100924_DENSO Q&A.xlsx
+[2024-09-10 01:10:19] Determining category for file: MIS_0.0.100924_DENSO Q&A.xlsx
+[2024-09-10 01:10:19] Matched category: MIS
+[2024-09-10 01:10:19] Category: MIS, Subcategory: Miscellaneous
+[2024-09-10 01:10:19] Determining file type for: MIS_0.0.100924_DENSO Q&A.xlsx
+[2024-09-10 01:10:19] File type index: 0
+[2024-09-10 01:10:19] Matched file type: Mis
+[2024-09-10 01:10:19] File Type: Mis
+[2024-09-10 01:10:19] Destination Path: C:\Users\Admin\Documents\MIS\Mis
+[2024-09-10 01:10:19] Attempting to move file from C:\Users\Admin\Downloads\MIS_0.0.100924_DENSO Q&A.xlsx to C:\Users\Admin\Documents\MIS\Mis\MIS_0.0.100924_DENSO Q&A.xlsx
+[2024-09-10 01:10:19] Moved MIS_0.0.100924_DENSO Q&A.xlsx to C:\Users\Admin\Documents\MIS\Mis\MIS_0.0.100924_DENSO Q&A.xlsx
+[2024-09-10 01:10:19] Found existing file: C:\Users\Admin\Downloads\MIS_0.0.100924_Github Recovery Code.txt
+[2024-09-10 01:10:19] Starting to organize file: C:\Users\Admin\Downloads\MIS_0.0.100924_Github Recovery Code.txt
+[2024-09-10 01:10:19] File name: MIS_0.0.100924_Github Recovery Code.txt
+[2024-09-10 01:10:19] Determining category for file: MIS_0.0.100924_Github Recovery Code.txt
+[2024-09-10 01:10:19] Matched category: MIS
+[2024-09-10 01:10:19] Category: MIS, Subcategory: Miscellaneous
+[2024-09-10 01:10:19] Determining file type for: MIS_0.0.100924_Github Recovery Code.txt
+[2024-09-10 01:10:19] File type index: 0
+[2024-09-10 01:10:19] Matched file type: Mis
+[2024-09-10 01:10:19] File Type: Mis
+[2024-09-10 01:10:19] Destination Path: C:\Users\Admin\Documents\MIS\Mis
+[2024-09-10 01:10:19] Attempting to move file from C:\Users\Admin\Downloads\MIS_0.0.100924_Github Recovery Code.txt to C:\Users\Admin\Documents\MIS\Mis\MIS_0.0.100924_Github Recovery Code.txt
+[2024-09-10 01:10:19] Moved MIS_0.0.100924_Github Recovery Code.txt to C:\Users\Admin\Documents\MIS\Mis\MIS_0.0.100924_Github Recovery Code.txt
+[2024-09-10 01:10:19] Found existing file: C:\Users\Admin\Downloads\MIS_0.0.100924_Teseria.pdf
+[2024-09-10 01:10:19] Starting to organize file: C:\Users\Admin\Downloads\MIS_0.0.100924_Teseria.pdf
+[2024-09-10 01:10:19] File name: MIS_0.0.100924_Teseria.pdf
+[2024-09-10 01:10:19] Determining category for file: MIS_0.0.100924_Teseria.pdf
+[2024-09-10 01:10:19] Matched category: MIS
+[2024-09-10 01:10:19] Category: MIS, Subcategory: Miscellaneous
+[2024-09-10 01:10:19] Determining file type for: MIS_0.0.100924_Teseria.pdf
+[2024-09-10 01:10:19] File type index: 0
+[2024-09-10 01:10:19] Matched file type: Mis
+[2024-09-10 01:10:19] File Type: Mis
+[2024-09-10 01:10:19] Destination Path: C:\Users\Admin\Documents\MIS\Mis
+[2024-09-10 01:10:19] Attempting to move file from C:\Users\Admin\Downloads\MIS_0.0.100924_Teseria.pdf to C:\Users\Admin\Documents\MIS\Mis\MIS_0.0.100924_Teseria.pdf
+[2024-09-10 01:10:19] Moved MIS_0.0.100924_Teseria.pdf to C:\Users\Admin\Documents\MIS\Mis\MIS_0.0.100924_Teseria.pdf
+[2024-09-10 01:10:19] Found existing file: C:\Users\Admin\Downloads\PROD_2.3.100924_Build The Life You Want.epub
+[2024-09-10 01:10:19] Starting to organize file: C:\Users\Admin\Downloads\PROD_2.3.100924_Build The Life You Want.epub
+[2024-09-10 01:10:19] File name: PROD_2.3.100924_Build The Life You Want.epub
+[2024-09-10 01:10:19] Determining category for file: PROD_2.3.100924_Build The Life You Want.epub
+[2024-09-10 01:10:19] Matched category: PROD
+[2024-09-10 01:10:19] Category: PROD, Subcategory: Productivity
+[2024-09-10 01:10:19] Determining file type for: PROD_2.3.100924_Build The Life You Want.epub
+[2024-09-10 01:10:19] File type index: 2
+[2024-09-10 01:10:19] Matched file type: Books
+[2024-09-10 01:10:19] File Type: Books
+[2024-09-10 01:10:19] Destination Path: C:\Users\Admin\Documents\PROD\Books
+[2024-09-10 01:10:19] Created directory: C:\Users\Admin\Documents\PROD\Books
+[2024-09-10 01:10:19] Attempting to move file from C:\Users\Admin\Downloads\PROD_2.3.100924_Build The Life You Want.epub to C:\Users\Admin\Documents\PROD\Books\PROD_2.3.100924_Build The Life You Want.epub
+[2024-09-10 01:10:19] Moved PROD_2.3.100924_Build The Life You Want.epub to C:\Users\Admin\Documents\PROD\Books\PROD_2.3.100924_Build The Life You Want.epub
+[2024-09-10 01:10:19] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:10:19] Checking for existing files matching the pattern...
+[2024-09-10 01:10:19] Found 8 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:10:19] Found existing file: C:\Users\Admin\Documents\DL_2.7.090924_ML Interview.pdf
+[2024-09-10 01:10:19] Starting to organize file: C:\Users\Admin\Documents\DL_2.7.090924_ML Interview.pdf
+[2024-09-10 01:10:19] File name: DL_2.7.090924_ML Interview.pdf
+[2024-09-10 01:10:19] Determining category for file: DL_2.7.090924_ML Interview.pdf
+[2024-09-10 01:10:19] Matched category: DL
+[2024-09-10 01:10:19] Category: DL, Subcategory: Deep Learning
+[2024-09-10 01:10:19] Determining file type for: DL_2.7.090924_ML Interview.pdf
+[2024-09-10 01:10:19] File type index: 2
+[2024-09-10 01:10:19] Matched file type: Books
+[2024-09-10 01:10:19] File Type: Books
+[2024-09-10 01:10:19] Destination Path: C:\Users\Admin\Documents\DL\Books
+[2024-09-10 01:10:19] Attempting to move file from C:\Users\Admin\Documents\DL_2.7.090924_ML Interview.pdf to C:\Users\Admin\Documents\DL\Books\DL_2.7.090924_ML Interview.pdf
+[2024-09-10 01:10:19] Moved DL_2.7.090924_ML Interview.pdf to C:\Users\Admin\Documents\DL\Books\DL_2.7.090924_ML Interview.pdf
+[2024-09-10 01:10:19] Found existing file: C:\Users\Admin\Documents\DL_2.7.090924_MLOps at Scale.pdf
+[2024-09-10 01:10:19] Starting to organize file: C:\Users\Admin\Documents\DL_2.7.090924_MLOps at Scale.pdf
+[2024-09-10 01:10:19] File name: DL_2.7.090924_MLOps at Scale.pdf
+[2024-09-10 01:10:19] Determining category for file: DL_2.7.090924_MLOps at Scale.pdf
+[2024-09-10 01:10:19] Matched category: DL
+[2024-09-10 01:10:19] Category: DL, Subcategory: Deep Learning
+[2024-09-10 01:10:19] Determining file type for: DL_2.7.090924_MLOps at Scale.pdf
+[2024-09-10 01:10:19] File type index: 2
+[2024-09-10 01:10:19] Matched file type: Books
+[2024-09-10 01:10:19] File Type: Books
+[2024-09-10 01:10:19] Destination Path: C:\Users\Admin\Documents\DL\Books
+[2024-09-10 01:10:19] Attempting to move file from C:\Users\Admin\Documents\DL_2.7.090924_MLOps at Scale.pdf to C:\Users\Admin\Documents\DL\Books\DL_2.7.090924_MLOps at Scale.pdf
+[2024-09-10 01:10:19] Moved DL_2.7.090924_MLOps at Scale.pdf to C:\Users\Admin\Documents\DL\Books\DL_2.7.090924_MLOps at Scale.pdf
+[2024-09-10 01:10:19] Found existing file: C:\Users\Admin\Documents\MATH_1.5.090924_Einstein Summation Notation.pdf
+[2024-09-10 01:10:19] Starting to organize file: C:\Users\Admin\Documents\MATH_1.5.090924_Einstein Summation Notation.pdf
+[2024-09-10 01:10:19] File name: MATH_1.5.090924_Einstein Summation Notation.pdf
+[2024-09-10 01:10:19] Determining category for file: MATH_1.5.090924_Einstein Summation Notation.pdf
+[2024-09-10 01:10:19] Matched category: MATH
+[2024-09-10 01:10:19] Category: MATH, Subcategory: Mathematics
+[2024-09-10 01:10:19] Determining file type for: MATH_1.5.090924_Einstein Summation Notation.pdf
+[2024-09-10 01:10:19] File type index: 1
+[2024-09-10 01:10:19] Matched file type: Paper
+[2024-09-10 01:10:19] File Type: Paper
+[2024-09-10 01:10:19] Destination Path: C:\Users\Admin\Documents\MATH\Paper
+[2024-09-10 01:10:19] Attempting to move file from C:\Users\Admin\Documents\MATH_1.5.090924_Einstein Summation Notation.pdf to C:\Users\Admin\Documents\MATH\Paper\MATH_1.5.090924_Einstein Summation Notation.pdf
+[2024-09-10 01:10:19] Moved MATH_1.5.090924_Einstein Summation Notation.pdf to C:\Users\Admin\Documents\MATH\Paper\MATH_1.5.090924_Einstein Summation Notation.pdf
+[2024-09-10 01:10:19] Found existing file: C:\Users\Admin\Documents\MATH_2.3.090924_Probabilistic Graphical Model.pdf
+[2024-09-10 01:10:19] Starting to organize file: C:\Users\Admin\Documents\MATH_2.3.090924_Probabilistic Graphical Model.pdf
+[2024-09-10 01:10:19] File name: MATH_2.3.090924_Probabilistic Graphical Model.pdf
+[2024-09-10 01:10:19] Determining category for file: MATH_2.3.090924_Probabilistic Graphical Model.pdf
+[2024-09-10 01:10:19] Matched category: MATH
+[2024-09-10 01:10:19] Category: MATH, Subcategory: Mathematics
+[2024-09-10 01:10:19] Determining file type for: MATH_2.3.090924_Probabilistic Graphical Model.pdf
+[2024-09-10 01:10:19] File type index: 2
+[2024-09-10 01:10:19] Matched file type: Books
+[2024-09-10 01:10:19] File Type: Books
+[2024-09-10 01:10:19] Destination Path: C:\Users\Admin\Documents\MATH\Books
+[2024-09-10 01:10:19] Created directory: C:\Users\Admin\Documents\MATH\Books
+[2024-09-10 01:10:19] Attempting to move file from C:\Users\Admin\Documents\MATH_2.3.090924_Probabilistic Graphical Model.pdf to C:\Users\Admin\Documents\MATH\Books\MATH_2.3.090924_Probabilistic Graphical Model.pdf
+[2024-09-10 01:10:19] Moved MATH_2.3.090924_Probabilistic Graphical Model.pdf to C:\Users\Admin\Documents\MATH\Books\MATH_2.3.090924_Probabilistic Graphical Model.pdf
+[2024-09-10 01:10:19] Found existing file: C:\Users\Admin\Documents\MATH_2.3.090924_Statistical Inference.pdf
+[2024-09-10 01:10:19] Starting to organize file: C:\Users\Admin\Documents\MATH_2.3.090924_Statistical Inference.pdf
+[2024-09-10 01:10:19] File name: MATH_2.3.090924_Statistical Inference.pdf
+[2024-09-10 01:10:19] Determining category for file: MATH_2.3.090924_Statistical Inference.pdf
+[2024-09-10 01:10:19] Matched category: MATH
+[2024-09-10 01:10:19] Category: MATH, Subcategory: Mathematics
+[2024-09-10 01:10:19] Determining file type for: MATH_2.3.090924_Statistical Inference.pdf
+[2024-09-10 01:10:19] File type index: 2
+[2024-09-10 01:10:19] Matched file type: Books
+[2024-09-10 01:10:19] File Type: Books
+[2024-09-10 01:10:19] Destination Path: C:\Users\Admin\Documents\MATH\Books
+[2024-09-10 01:10:19] Attempting to move file from C:\Users\Admin\Documents\MATH_2.3.090924_Statistical Inference.pdf to C:\Users\Admin\Documents\MATH\Books\MATH_2.3.090924_Statistical Inference.pdf
+[2024-09-10 01:10:19] Moved MATH_2.3.090924_Statistical Inference.pdf to C:\Users\Admin\Documents\MATH\Books\MATH_2.3.090924_Statistical Inference.pdf
+[2024-09-10 01:10:19] Found existing file: C:\Users\Admin\Documents\MATH_2.3.100924_Probability and Statisitcs (Bersekas).pdf
+[2024-09-10 01:10:19] Starting to organize file: C:\Users\Admin\Documents\MATH_2.3.100924_Probability and Statisitcs (Bersekas).pdf
+[2024-09-10 01:10:19] File name: MATH_2.3.100924_Probability and Statisitcs (Bersekas).pdf
+[2024-09-10 01:10:19] Determining category for file: MATH_2.3.100924_Probability and Statisitcs (Bersekas).pdf
+[2024-09-10 01:10:19] Matched category: MATH
+[2024-09-10 01:10:19] Category: MATH, Subcategory: Mathematics
+[2024-09-10 01:10:20] Determining file type for: MATH_2.3.100924_Probability and Statisitcs (Bersekas).pdf
+[2024-09-10 01:10:20] File type index: 2
+[2024-09-10 01:10:20] Matched file type: Books
+[2024-09-10 01:10:20] File Type: Books
+[2024-09-10 01:10:20] Destination Path: C:\Users\Admin\Documents\MATH\Books
+[2024-09-10 01:10:20] Attempting to move file from C:\Users\Admin\Documents\MATH_2.3.100924_Probability and Statisitcs (Bersekas).pdf to C:\Users\Admin\Documents\MATH\Books\MATH_2.3.100924_Probability and Statisitcs (Bersekas).pdf
+[2024-09-10 01:10:20] Moved MATH_2.3.100924_Probability and Statisitcs (Bersekas).pdf to C:\Users\Admin\Documents\MATH\Books\MATH_2.3.100924_Probability and Statisitcs (Bersekas).pdf
+[2024-09-10 01:10:20] Found existing file: C:\Users\Admin\Documents\MATH_5.2.090924_Differential Equation.pdf
+[2024-09-10 01:10:20] Starting to organize file: C:\Users\Admin\Documents\MATH_5.2.090924_Differential Equation.pdf
+[2024-09-10 01:10:20] File name: MATH_5.2.090924_Differential Equation.pdf
+[2024-09-10 01:10:20] Determining category for file: MATH_5.2.090924_Differential Equation.pdf
+[2024-09-10 01:10:20] Matched category: MATH
+[2024-09-10 01:10:20] Category: MATH, Subcategory: Mathematics
+[2024-09-10 01:10:20] Determining file type for: MATH_5.2.090924_Differential Equation.pdf
+[2024-09-10 01:10:20] File type index: 5
+[2024-09-10 01:10:20] Matched file type: Short pdf
+[2024-09-10 01:10:20] File Type: Short pdf
+[2024-09-10 01:10:20] Destination Path: C:\Users\Admin\Documents\MATH\Short pdf
+[2024-09-10 01:10:20] Attempting to move file from C:\Users\Admin\Documents\MATH_5.2.090924_Differential Equation.pdf to C:\Users\Admin\Documents\MATH\Short pdf\MATH_5.2.090924_Differential Equation.pdf
+[2024-09-10 01:10:20] Moved MATH_5.2.090924_Differential Equation.pdf to C:\Users\Admin\Documents\MATH\Short pdf\MATH_5.2.090924_Differential Equation.pdf
+[2024-09-10 01:10:20] Found existing file: C:\Users\Admin\Documents\PROD_2.1.100924_Deep Work.pdf
+[2024-09-10 01:10:20] Starting to organize file: C:\Users\Admin\Documents\PROD_2.1.100924_Deep Work.pdf
+[2024-09-10 01:10:20] File name: PROD_2.1.100924_Deep Work.pdf
+[2024-09-10 01:10:20] Determining category for file: PROD_2.1.100924_Deep Work.pdf
+[2024-09-10 01:10:20] Matched category: PROD
+[2024-09-10 01:10:20] Category: PROD, Subcategory: Productivity
+[2024-09-10 01:10:20] Determining file type for: PROD_2.1.100924_Deep Work.pdf
+[2024-09-10 01:10:20] File type index: 2
+[2024-09-10 01:10:20] Matched file type: Books
+[2024-09-10 01:10:20] File Type: Books
+[2024-09-10 01:10:20] Destination Path: C:\Users\Admin\Documents\PROD\Books
+[2024-09-10 01:10:20] Attempting to move file from C:\Users\Admin\Documents\PROD_2.1.100924_Deep Work.pdf to C:\Users\Admin\Documents\PROD\Books\PROD_2.1.100924_Deep Work.pdf
+[2024-09-10 01:10:20] Moved PROD_2.1.100924_Deep Work.pdf to C:\Users\Admin\Documents\PROD\Books\PROD_2.1.100924_Deep Work.pdf
+[2024-09-10 01:10:20] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:10:50] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:10:50] Checking for existing files matching the pattern...
+[2024-09-10 01:10:50] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:10:50] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:10:50] Checking for existing files matching the pattern...
+[2024-09-10 01:10:50] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:10:50] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:11:20] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:11:20] Checking for existing files matching the pattern...
+[2024-09-10 01:11:20] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:11:20] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:11:20] Checking for existing files matching the pattern...
+[2024-09-10 01:11:20] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:11:20] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:11:50] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:11:50] Checking for existing files matching the pattern...
+[2024-09-10 01:11:50] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:11:50] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:11:50] Checking for existing files matching the pattern...
+[2024-09-10 01:11:50] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:11:50] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:12:20] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:12:20] Checking for existing files matching the pattern...
+[2024-09-10 01:12:20] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:12:20] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:12:20] Checking for existing files matching the pattern...
+[2024-09-10 01:12:20] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:12:20] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:12:50] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:12:50] Checking for existing files matching the pattern...
+[2024-09-10 01:12:50] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:12:50] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:12:50] Checking for existing files matching the pattern...
+[2024-09-10 01:12:50] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:12:50] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:13:20] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:13:20] Checking for existing files matching the pattern...
+[2024-09-10 01:13:20] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:13:20] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:13:20] Checking for existing files matching the pattern...
+[2024-09-10 01:13:20] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:13:20] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:13:50] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:13:50] Checking for existing files matching the pattern...
+[2024-09-10 01:13:50] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:13:50] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:13:50] Checking for existing files matching the pattern...
+[2024-09-10 01:13:50] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:13:50] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:14:20] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:14:20] Checking for existing files matching the pattern...
+[2024-09-10 01:14:20] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:14:20] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:14:20] Checking for existing files matching the pattern...
+[2024-09-10 01:14:20] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:14:20] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:14:50] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:14:50] Checking for existing files matching the pattern...
+[2024-09-10 01:14:50] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:14:50] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:14:50] Checking for existing files matching the pattern...
+[2024-09-10 01:14:50] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:14:50] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:15:20] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:15:20] Checking for existing files matching the pattern...
+[2024-09-10 01:15:20] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:15:20] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:15:20] Checking for existing files matching the pattern...
+[2024-09-10 01:15:20] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:15:20] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:15:50] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:15:50] Checking for existing files matching the pattern...
+[2024-09-10 01:15:50] Found 1 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:15:50] Found existing file: C:\Users\Admin\Downloads\CS_1.2.100924_Ð? Minh Nh?t.pdf
+[2024-09-10 01:15:50] Starting to organize file: C:\Users\Admin\Downloads\CS_1.2.100924_Ð? Minh Nh?t.pdf
+[2024-09-10 01:15:50] File name: CS_1.2.100924_Ð? Minh Nh?t.pdf
+[2024-09-10 01:15:50] Determining category for file: CS_1.2.100924_Ð? Minh Nh?t.pdf
+[2024-09-10 01:15:50] Matched category: CS
+[2024-09-10 01:15:50] Category: CS, Subcategory: Computer Science
+[2024-09-10 01:15:50] Determining file type for: CS_1.2.100924_Ð? Minh Nh?t.pdf
+[2024-09-10 01:15:50] File type index: 1
+[2024-09-10 01:15:50] Matched file type: Paper
+[2024-09-10 01:15:50] File Type: Paper
+[2024-09-10 01:15:50] Destination Path: C:\Users\Admin\Documents\CS\Paper
+[2024-09-10 01:15:50] Created directory: C:\Users\Admin\Documents\CS\Paper
+[2024-09-10 01:15:50] Attempting to move file from C:\Users\Admin\Downloads\CS_1.2.100924_Ð? Minh Nh?t.pdf to C:\Users\Admin\Documents\CS\Paper\CS_1.2.100924_Ð? Minh Nh?t.pdf
+[2024-09-10 01:15:50] Moved CS_1.2.100924_Ð? Minh Nh?t.pdf to C:\Users\Admin\Documents\CS\Paper\CS_1.2.100924_Ð? Minh Nh?t.pdf
+[2024-09-10 01:15:50] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:15:50] Checking for existing files matching the pattern...
+[2024-09-10 01:15:50] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:15:50] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:16:20] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:16:20] Checking for existing files matching the pattern...
+[2024-09-10 01:16:20] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:16:20] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:16:20] Checking for existing files matching the pattern...
+[2024-09-10 01:16:20] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:16:20] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:16:50] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:16:50] Checking for existing files matching the pattern...
+[2024-09-10 01:16:50] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:16:50] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:16:50] Checking for existing files matching the pattern...
+[2024-09-10 01:16:50] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:16:50] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:17:20] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:30:45] Checking for existing files matching the pattern...
+[2024-09-10 01:30:45] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:30:45] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:30:45] Checking for existing files matching the pattern...
+[2024-09-10 01:30:45] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:30:45] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:31:15] Watching folder: C:\Users\Admin\Downloads
+[2024-09-10 01:31:15] Checking for existing files matching the pattern...
+[2024-09-10 01:31:15] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-10 01:31:15] Watching folder: C:\Users\Admin\Documents
+[2024-09-10 01:31:15] Checking for existing files matching the pattern...
+[2024-09-10 01:31:15] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-10 01:31:15] Sleeping for 30 seconds before next scan...
+[2024-09-10 01:31:22] File organizer stopped.
+[2024-09-11 15:13:44] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 15:13:44] Checking for existing files matching the pattern...
+[2024-09-11 15:13:44] Found 1 matching files in C:\Users\Admin\Downloads
+[2024-09-11 15:13:44] Found existing file: C:\Users\Admin\Downloads\MATH_0.0.110924_MATLAB Cheatsheet.jpg
+[2024-09-11 15:13:44] Starting to organize file: C:\Users\Admin\Downloads\MATH_0.0.110924_MATLAB Cheatsheet.jpg
+[2024-09-11 15:13:44] File name: MATH_0.0.110924_MATLAB Cheatsheet.jpg
+[2024-09-11 15:13:44] Determining category for file: MATH_0.0.110924_MATLAB Cheatsheet.jpg
+[2024-09-11 15:13:44] Matched category: MATH
+[2024-09-11 15:13:44] Category: MATH, Subcategory: Mathematics
+[2024-09-11 15:13:44] Determining file type for: MATH_0.0.110924_MATLAB Cheatsheet.jpg
+[2024-09-11 15:13:44] File type index: 0
+[2024-09-11 15:13:44] Matched file type: Mis
+[2024-09-11 15:13:44] File Type: Mis
+[2024-09-11 15:13:44] Destination Path: C:\Users\Admin\Documents\MATH\Mis
+[2024-09-11 15:13:44] Attempting to move file from C:\Users\Admin\Downloads\MATH_0.0.110924_MATLAB Cheatsheet.jpg to C:\Users\Admin\Documents\MATH\Mis\MATH_0.0.110924_MATLAB Cheatsheet.jpg
+[2024-09-11 15:13:44] Moved MATH_0.0.110924_MATLAB Cheatsheet.jpg to C:\Users\Admin\Documents\MATH\Mis\MATH_0.0.110924_MATLAB Cheatsheet.jpg
+[2024-09-11 15:13:44] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 15:13:44] Checking for existing files matching the pattern...
+[2024-09-11 15:13:44] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 15:13:44] Sleeping for 30 seconds before next scan...
+[2024-09-11 15:13:50] File organizer stopped.
+[2024-09-11 17:30:51] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:30:51] Checking for existing files matching the pattern...
+[2024-09-11 17:30:51] Found 2 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:30:51] Found existing file: C:\Users\Admin\Downloads\MATH_2.0.110924_Everything you need to know about Mathematics.pdf
+[2024-09-11 17:30:51] Starting to organize file: C:\Users\Admin\Downloads\MATH_2.0.110924_Everything you need to know about Mathematics.pdf
+[2024-09-11 17:30:51] File name: MATH_2.0.110924_Everything you need to know about Mathematics.pdf
+[2024-09-11 17:30:51] Determining category for file: MATH_2.0.110924_Everything you need to know about Mathematics.pdf
+[2024-09-11 17:30:51] Matched category: MATH
+[2024-09-11 17:30:51] Category: MATH, Subcategory: Mathematics
+[2024-09-11 17:30:51] Determining file type for: MATH_2.0.110924_Everything you need to know about Mathematics.pdf
+[2024-09-11 17:30:51] File type index: 2
+[2024-09-11 17:30:51] Matched file type: Books
+[2024-09-11 17:30:51] File Type: Books
+[2024-09-11 17:30:51] Destination Path: C:\Users\Admin\Documents\MATH\Books
+[2024-09-11 17:30:51] Attempting to move file from C:\Users\Admin\Downloads\MATH_2.0.110924_Everything you need to know about Mathematics.pdf to C:\Users\Admin\Documents\MATH\Books\MATH_2.0.110924_Everything you need to know about Mathematics.pdf
+[2024-09-11 17:30:51] Moved MATH_2.0.110924_Everything you need to know about Mathematics.pdf to C:\Users\Admin\Documents\MATH\Books\MATH_2.0.110924_Everything you need to know about Mathematics.pdf
+[2024-09-11 17:30:51] Found existing file: C:\Users\Admin\Downloads\MATH_2.0.110924_Napkin.pdf
+[2024-09-11 17:30:51] Starting to organize file: C:\Users\Admin\Downloads\MATH_2.0.110924_Napkin.pdf
+[2024-09-11 17:30:51] File name: MATH_2.0.110924_Napkin.pdf
+[2024-09-11 17:30:51] Determining category for file: MATH_2.0.110924_Napkin.pdf
+[2024-09-11 17:30:51] Matched category: MATH
+[2024-09-11 17:30:51] Category: MATH, Subcategory: Mathematics
+[2024-09-11 17:30:51] Determining file type for: MATH_2.0.110924_Napkin.pdf
+[2024-09-11 17:30:51] File type index: 2
+[2024-09-11 17:30:51] Matched file type: Books
+[2024-09-11 17:30:51] File Type: Books
+[2024-09-11 17:30:51] Destination Path: C:\Users\Admin\Documents\MATH\Books
+[2024-09-11 17:30:51] Attempting to move file from C:\Users\Admin\Downloads\MATH_2.0.110924_Napkin.pdf to C:\Users\Admin\Documents\MATH\Books\MATH_2.0.110924_Napkin.pdf
+[2024-09-11 17:30:51] Moved MATH_2.0.110924_Napkin.pdf to C:\Users\Admin\Documents\MATH\Books\MATH_2.0.110924_Napkin.pdf
+[2024-09-11 17:30:51] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:30:51] Checking for existing files matching the pattern...
+[2024-09-11 17:30:51] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:30:51] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:31:21] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:31:21] Checking for existing files matching the pattern...
+[2024-09-11 17:31:21] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:31:21] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:31:21] Checking for existing files matching the pattern...
+[2024-09-11 17:31:21] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:31:21] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:31:51] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:31:51] Checking for existing files matching the pattern...
+[2024-09-11 17:31:51] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:31:51] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:31:51] Checking for existing files matching the pattern...
+[2024-09-11 17:31:51] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:31:51] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:32:21] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:32:21] Checking for existing files matching the pattern...
+[2024-09-11 17:32:21] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:32:21] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:32:21] Checking for existing files matching the pattern...
+[2024-09-11 17:32:21] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:32:21] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:32:51] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:32:51] Checking for existing files matching the pattern...
+[2024-09-11 17:32:51] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:32:51] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:32:51] Checking for existing files matching the pattern...
+[2024-09-11 17:32:51] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:32:51] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:33:21] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:33:21] Checking for existing files matching the pattern...
+[2024-09-11 17:33:21] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:33:21] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:33:21] Checking for existing files matching the pattern...
+[2024-09-11 17:33:21] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:33:21] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:33:51] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:33:51] Checking for existing files matching the pattern...
+[2024-09-11 17:33:51] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:33:51] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:33:51] Checking for existing files matching the pattern...
+[2024-09-11 17:33:51] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:33:51] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:34:21] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:34:21] Checking for existing files matching the pattern...
+[2024-09-11 17:34:21] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:34:21] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:34:21] Checking for existing files matching the pattern...
+[2024-09-11 17:34:21] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:34:21] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:34:51] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:34:51] Checking for existing files matching the pattern...
+[2024-09-11 17:34:51] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:34:51] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:34:51] Checking for existing files matching the pattern...
+[2024-09-11 17:34:51] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:34:51] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:35:21] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:35:21] Checking for existing files matching the pattern...
+[2024-09-11 17:35:21] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:35:21] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:35:21] Checking for existing files matching the pattern...
+[2024-09-11 17:35:21] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:35:21] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:35:51] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:35:51] Checking for existing files matching the pattern...
+[2024-09-11 17:35:51] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:35:51] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:35:51] Checking for existing files matching the pattern...
+[2024-09-11 17:35:51] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:35:51] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:36:21] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:36:21] Checking for existing files matching the pattern...
+[2024-09-11 17:36:21] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:36:21] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:36:21] Checking for existing files matching the pattern...
+[2024-09-11 17:36:21] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:36:22] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:36:52] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:36:52] Checking for existing files matching the pattern...
+[2024-09-11 17:36:52] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:36:52] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:36:52] Checking for existing files matching the pattern...
+[2024-09-11 17:36:52] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:36:52] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:37:22] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:37:22] Checking for existing files matching the pattern...
+[2024-09-11 17:37:22] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:37:22] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:37:22] Checking for existing files matching the pattern...
+[2024-09-11 17:37:22] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:37:22] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:37:52] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:37:52] Checking for existing files matching the pattern...
+[2024-09-11 17:37:52] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:37:52] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:37:52] Checking for existing files matching the pattern...
+[2024-09-11 17:37:52] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:37:52] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:38:22] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:38:22] Checking for existing files matching the pattern...
+[2024-09-11 17:38:22] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:38:22] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:38:22] Checking for existing files matching the pattern...
+[2024-09-11 17:38:22] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:38:22] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:38:52] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:38:52] Checking for existing files matching the pattern...
+[2024-09-11 17:38:52] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:38:52] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:38:52] Checking for existing files matching the pattern...
+[2024-09-11 17:38:52] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:38:52] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:39:22] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:39:22] Checking for existing files matching the pattern...
+[2024-09-11 17:39:22] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:39:22] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:39:22] Checking for existing files matching the pattern...
+[2024-09-11 17:39:22] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:39:22] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:39:52] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:39:52] Checking for existing files matching the pattern...
+[2024-09-11 17:39:52] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:39:52] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:39:52] Checking for existing files matching the pattern...
+[2024-09-11 17:39:52] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:39:52] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:40:22] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:40:22] Checking for existing files matching the pattern...
+[2024-09-11 17:40:22] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:40:22] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:40:22] Checking for existing files matching the pattern...
+[2024-09-11 17:40:22] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:40:22] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:40:52] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:40:52] Checking for existing files matching the pattern...
+[2024-09-11 17:40:52] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:40:52] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:40:52] Checking for existing files matching the pattern...
+[2024-09-11 17:40:52] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:40:52] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:41:22] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:41:22] Checking for existing files matching the pattern...
+[2024-09-11 17:41:22] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:41:22] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:41:22] Checking for existing files matching the pattern...
+[2024-09-11 17:41:22] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:41:22] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:41:52] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:41:52] Checking for existing files matching the pattern...
+[2024-09-11 17:41:52] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:41:52] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:41:52] Checking for existing files matching the pattern...
+[2024-09-11 17:41:52] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:41:52] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:42:22] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:42:22] Checking for existing files matching the pattern...
+[2024-09-11 17:42:22] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:42:22] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:42:22] Checking for existing files matching the pattern...
+[2024-09-11 17:42:22] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:42:22] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:42:52] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:42:52] Checking for existing files matching the pattern...
+[2024-09-11 17:42:52] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:42:52] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:42:52] Checking for existing files matching the pattern...
+[2024-09-11 17:42:52] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:42:52] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:43:22] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:43:22] Checking for existing files matching the pattern...
+[2024-09-11 17:43:22] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:43:22] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:43:22] Checking for existing files matching the pattern...
+[2024-09-11 17:43:22] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:43:22] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:43:52] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:43:52] Checking for existing files matching the pattern...
+[2024-09-11 17:43:52] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:43:52] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:43:52] Checking for existing files matching the pattern...
+[2024-09-11 17:43:52] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:43:52] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:44:22] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:44:22] Checking for existing files matching the pattern...
+[2024-09-11 17:44:22] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:44:22] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:44:22] Checking for existing files matching the pattern...
+[2024-09-11 17:44:22] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:44:22] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:44:52] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:44:52] Checking for existing files matching the pattern...
+[2024-09-11 17:44:52] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:44:52] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:44:52] Checking for existing files matching the pattern...
+[2024-09-11 17:44:52] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:44:52] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:45:22] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:45:22] Checking for existing files matching the pattern...
+[2024-09-11 17:45:22] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:45:22] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:45:22] Checking for existing files matching the pattern...
+[2024-09-11 17:45:23] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:45:23] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:45:53] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:45:53] Checking for existing files matching the pattern...
+[2024-09-11 17:45:53] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:45:53] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:45:53] Checking for existing files matching the pattern...
+[2024-09-11 17:45:53] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:45:53] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:46:23] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:46:23] Checking for existing files matching the pattern...
+[2024-09-11 17:46:23] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:46:23] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:46:23] Checking for existing files matching the pattern...
+[2024-09-11 17:46:23] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:46:23] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:46:53] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:46:53] Checking for existing files matching the pattern...
+[2024-09-11 17:46:53] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:46:53] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:46:53] Checking for existing files matching the pattern...
+[2024-09-11 17:46:53] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:46:53] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:47:23] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:47:23] Checking for existing files matching the pattern...
+[2024-09-11 17:47:23] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:47:23] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:47:23] Checking for existing files matching the pattern...
+[2024-09-11 17:47:23] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:47:23] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:47:53] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:47:53] Checking for existing files matching the pattern...
+[2024-09-11 17:47:53] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:47:53] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:47:53] Checking for existing files matching the pattern...
+[2024-09-11 17:47:53] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:47:53] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:48:23] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:48:23] Checking for existing files matching the pattern...
+[2024-09-11 17:48:23] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:48:23] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:48:23] Checking for existing files matching the pattern...
+[2024-09-11 17:48:23] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:48:23] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:48:53] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:48:53] Checking for existing files matching the pattern...
+[2024-09-11 17:48:53] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:48:53] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:48:53] Checking for existing files matching the pattern...
+[2024-09-11 17:48:53] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:48:53] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:49:23] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:49:23] Checking for existing files matching the pattern...
+[2024-09-11 17:49:23] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:49:23] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:49:23] Checking for existing files matching the pattern...
+[2024-09-11 17:49:23] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:49:23] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:49:53] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:49:53] Checking for existing files matching the pattern...
+[2024-09-11 17:49:53] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:49:53] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:49:53] Checking for existing files matching the pattern...
+[2024-09-11 17:49:53] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:49:53] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:50:23] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:50:23] Checking for existing files matching the pattern...
+[2024-09-11 17:50:23] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:50:23] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:50:23] Checking for existing files matching the pattern...
+[2024-09-11 17:50:23] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:50:23] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:50:53] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:50:53] Checking for existing files matching the pattern...
+[2024-09-11 17:50:53] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:50:53] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:50:53] Checking for existing files matching the pattern...
+[2024-09-11 17:50:53] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:50:53] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:51:23] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:51:23] Checking for existing files matching the pattern...
+[2024-09-11 17:51:23] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:51:23] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:51:23] Checking for existing files matching the pattern...
+[2024-09-11 17:51:23] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:51:23] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:51:53] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:51:53] Checking for existing files matching the pattern...
+[2024-09-11 17:51:53] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:51:53] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:51:53] Checking for existing files matching the pattern...
+[2024-09-11 17:51:53] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:51:53] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:52:23] Watching folder: C:\Users\Admin\Downloads
+[2024-09-11 17:52:23] Checking for existing files matching the pattern...
+[2024-09-11 17:52:23] Found 0 matching files in C:\Users\Admin\Downloads
+[2024-09-11 17:52:23] Watching folder: C:\Users\Admin\Documents
+[2024-09-11 17:52:23] Checking for existing files matching the pattern...
+[2024-09-11 17:52:23] Found 0 matching files in C:\Users\Admin\Documents
+[2024-09-11 17:52:23] Sleeping for 30 seconds before next scan...
+[2024-09-11 17:52:50] File organizer stopped.
